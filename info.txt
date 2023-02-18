@@ -4,4 +4,4 @@ Wednesday = from Germanic god Odin
 Thursday = from Germanic god of thunder Thor
 Friday = from Germanic goddess Frigga associated with Venus
 Saturday = associated with Saturn
-Sunday = associated with the Sun
+Sunday = associated with the Sun.
