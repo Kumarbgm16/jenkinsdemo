@@ -1,4 +1,4 @@
-Monday = associated with the Moon
+Mon = associated with the Moon
 Tuesday = from the god Tiw, associated with Mars
 Wednesday = from Germanic god Odin
 Thursday = from Germanic god of thunder Thor
